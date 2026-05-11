@@ -11,7 +11,7 @@ function App() {
       <nav className="navbar">
         <div className="navbar-inner">
           <NavLink to="/" className="navbar-brand">
-            🐄 <span>CattleAI</span>
+            <span>CattleAI</span>
           </NavLink>
           <ul className="nav-links">
             <li><NavLink to="/" end>Home</NavLink></li>
